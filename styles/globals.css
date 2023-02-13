@@ -53,3 +53,12 @@ h2,
 h3 {
   font-family: "Oswald", "Roboto", sans-serif;
 }
+
+a {
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
